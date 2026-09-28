@@ -1,5 +1,3 @@
-# Statistique-des-risques-extr-mes
-
 # Gestion des Risques Extrêmes avec Dash
 
 Ce projet présente une implémentation Dash pour la gestion des risques extrêmes sur les actions et indices cotés. Un accent particulier est mis sur la calibration de la VaR et le backtesting.
